@@ -1,0 +1,22 @@
+# Education Template
+- layout: left
+  name: Highline College
+  # dates: Date Range (eg. 2016 - 2019)
+  qualification: Associate of Arts
+  quote: >
+    Highline College is accredited by the Northwest Commission on Colleges and Universities, an institutional accrediting body recognized by the Council for Higher Education Accreditation and the secretary of the United States Department of Education.
+  description: | # this will include new lines to allow paragraphs
+    Studied courses of general education.
+
+- layout: left
+  name: Udacity
+  # dates: Date Range (eg. 2016 - 2019)
+  qualification: Continuing Education
+  quote: >
+    Udacity is where lifelong learners come to learn the skills they need, to land the jobs they want, to build the lives they deserve.
+  description: | # this will include new lines to allow paragraphs
+    Courses Taken: 
+    - Introduction to Computer Programming: Building a Search Engine (CS101)
+    - Algorithms: Crunching Social Networks (CS215)
+    - Web Development: How to Build a Blog (CS253)
+    - Applied Cryptography: Science of Secrets (CS387)
