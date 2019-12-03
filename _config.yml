@@ -1,0 +1,145 @@
+# Site
+repository: tysonjhayes/tysonjhayes.github.io
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Tyson J. Hayes
+title: Service Engineer
+email: jobs@tysonjhayes.com
+# phone: Your phone number (optional)
+website: http://tysonjhayes.com
+
+# Social links
+twitter_username: tysonjhayes
+github_username:  tysonjhayes
+# dribbble_username: jekyll
+facebook_username: tysonjhayes
+# flickr_username: jekyll
+# instagram_username: jekyll
+linkedin_username: tysonjhayes
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  **Objective**:
+  - Solve problems, do the real work, automate solutions.
+
+  **Superpowers**:
+  - Tenacity, stubbornness, hard work – it goes by many names, and it’s getting things done.
+  - Solving broken systems, getting to the root of problems, and creating systematic solutions that solve problems before they exist.
+  - Cultivating functional, cooperative, efficient teams.
+
+  **Core Qualifications**:
+  - Experienced leader of small teams.
+  - Strong use of PowerShell scripting language.
+  - Exception configuration management skills using <mark>Desired State Configuration</mark> (DSC), and <mark>Chef</mark>.
+  - Consistent Data Driven approaches to solve problems.
+  - Facility with development methodologies including Agile.
+  - Excellent at getting systems into the cloud.
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: Skills #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+
+  **Languages** :
+  - .ASP
+  - C#
+  - HTML
+  - .NET
+  - PowerShell
+  - Pester
+  - SQL
+  - XAML
+
+  **Automation Tools**:
+  - Chef
+  - PowerShell DSC
+  - Vagrant
+  - VirtualBox
+  - Hyper-V
+  - Azure
+
+  **Operating Systems**:
+  - WinXP
+  - Vista
+  - Windows 7
+  - Windows 2003
+  - Windows 2008 R2
+  - Windows 2012
+  - Windows 2012 R2
+  - Windows Server 2016
+  - Windows 10
+
+  **Source Control**:
+  - Source Depot
+  - Git
+  - Perforce
+
+  **Consoles**:
+  - XBOX 360
+  - XBOX One
+  - XBOX One S
+  - XBOX One X
+
+  **E-Mail Systems**: Exchange 2013 - 2007
+  
+  **Other**:
+  - Active Directory
+  - Cloud Computing
+  - Documentation
+  - DNS
+  - Problem Solving
+  - Office 2003 – 2016
+  - System Administration
+  - MediaWiki
+  - Resource Space
+  - Build Tracker
+  - Team City
+  - IIS
+  - Microsoft SQL
+  - Splunk
+  - Microsoft PowerBI
+  - Test Driven Development (TDD)
+  - Behavior Driven Development (BDD)
+
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
