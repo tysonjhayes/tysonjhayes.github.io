@@ -5,7 +5,7 @@
   quote: >
     PowerShell DSC code for managing the networking stack.
 
-- layout: left
+- layout: right
   name: xWebAdministration
   link: https://github.com/dsccommunity/xWebAdministration
   github: dsccoumminty/xWebAdministration
@@ -18,7 +18,7 @@
   quote: >
     Testing and deploying games to the consoles.
 
-- layout: left
+- layout: right
   name: Forza Street
   link: https://forzamotorsport.net/en-us/Forza_Street
   quote: >
@@ -30,7 +30,7 @@
   quote: >
     Live the Horizon Life when you play Forza Horizon 4.
 
-- layout: left
+- layout: right
   name: Forza Motorpsort 7
   link: https://forzamotorsport.net/en-US/games/fm7
   quote: >
@@ -42,11 +42,11 @@
   quote: >
     Welcome to Australia! In Forza Horizon 3, you'll explore the Land Down Under, along with more than 350 of the world's greatest cars and trucks.
 
-- layout: left
+- layout: right
   name: Forza Motorsport 6 Apex
   link: https://www.forzamotorsport.net/en-US/games/fm6a
   quote: >
-    Live the Horizon Life when you play Forza Horizon 4.
+    Experience unrelenting action in the most beautiful and comprehensive racing game of this generation. Now on PC!
 
 - layout: left
   name: Forza Motorsport 6
@@ -54,7 +54,7 @@
   quote: >
     Experience unrelenting action in the most beautiful and comprehensive racing game of this generation.
 
-- layout: left
+- layout: right
   name: Forza Horizon 2 Presents Fast & Furious
   link: https://www.forzamotorsport.net/en-US/games/ff/features
   quote: >
@@ -66,7 +66,7 @@
   quote: >
     Race through a massive wide-open world featuring dramatic weather and day to night cycles.
 
-- layout: left
+- layout: right
   name: Forza Motorsport 5.
   link: https://www.forzamotorsport.net/en-US/games/fm5
   quote: >
